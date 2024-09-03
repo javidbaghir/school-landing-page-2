@@ -1,0 +1,35 @@
+:root {
+
+    /* Colors */
+
+    --colorWhite: #fff;
+    --colorGray: #404040;
+    --colorGreen: #09B451;
+    --colorClearDay: #f6fdf9;
+    --colorBlack: #000;
+    --colorBabyBlue: #ddffff;
+    --colorMineShaft: #333333;
+    --colorWhitefe: #fefefe;
+    --colorEbonyClay: #242243;
+    --colorBorder: #2F3336;
+    --colorButton: #1D9BF0;
+    --colorGray: #6E767D;
+    --colorText: #D9D9D9;
+    --colorShark: #202327;
+    --colorButtonFlw: #EFF3F4;
+    --colorFlw: #0F1419;
+    --colorLink: #404040CC;
+    --colorMainTopBck: #F0FAF5;
+    --colorMainTopBfr: #E4FFFF;
+    --colorBtnBck: #E1FFEE;
+    --colorCallBtn: #E7FAEF;
+
+    /* Fonts */
+    --fontPoppins: "Poppins", sans-serif;
+    --fontopensans: "Open Sans", sans-serif;
+    --fontSource: "Source Sans 3", sans-serif;
+    --fontSfPro: "SF Pro Text";
+
+
+    
+}

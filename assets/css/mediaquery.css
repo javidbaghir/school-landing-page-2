@@ -1,0 +1,166 @@
+@media only screen and (max-width: 640px) {
+
+  .container {
+    width: 100%;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+
+  .main-top {
+
+    .container {
+      padding-left: 24px;
+      padding-right: 24px;
+      /* width: 100%;  */
+      display: flex;
+      flex-direction: column;
+      padding-left: 0;
+
+      .left {
+        justify-content: flex-start;
+
+        h2 {
+          font-size: 32px;
+          font-weight: 700;
+          width: 300px;
+        }
+      }
+
+      .right {
+
+        .photo {
+          width: 260px;
+          height: 307px;
+          position: relative;
+        }
+
+        .card-left {
+          border-radius: 7.61px 7.61px 16.3px 7.61px;
+          width: 142px;
+          padding: 9px 12px;
+          position: absolute;
+          left: -50px;
+          bottom: 58px;
+
+
+          p {
+            width: 116px;
+            font-size: 11px;
+            font-weight: 600;
+
+          }
+
+          .photos {
+
+            .photo-sm {
+
+              width: 27px;
+              height: 27px;
+              margin-left: -13px;
+            }
+          }
+        }
+
+        .card-right {
+          width: 78px;
+          padding: 9px 8px 4px 8px;
+
+          span {
+            font-size: 14px;
+            line-height: 22px;
+
+          }
+
+          p {
+            font-size: 7px;
+            line-height: 11px;
+
+          }
+        }
+
+        &::before {
+          display: none;
+        }
+      }
+
+    }
+  }
+
+  .titles {
+    .container {
+      width: 428px;
+      display: block;
+
+      .title-card:not(:last-child) {
+        margin-bottom: 24px;
+      }
+    }
+  }
+
+
+  .card {
+    .container {
+      .card-head {
+
+        h3 {
+          width: 225px;
+          font-size: 18px;
+          font-weight: 500;
+        }
+
+        &>div {
+
+          a {
+            font-size: 18px;
+          }
+        }
+      }
+    }
+  }
+
+  .card {
+    .container {
+      .card-body {
+        display: flex;
+        gap: 16px;
+
+        .category-item {
+          width: 116px;
+          height: 133px;
+          overflow: hidden;
+          overflow-x: auto;
+          position: relative;
+
+          .photo {
+            width: 116px;
+            height: 133px;
+          }
+
+
+
+          .inner {
+
+            position: absolute;
+            left: 0;
+            right: 0;
+            right: 0;
+            bottom: 0;
+
+            .text {
+              display: none;
+            }
+
+            h4 {
+              font-size: 16px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

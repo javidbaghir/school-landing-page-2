@@ -1,0 +1,124 @@
+.icon {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-20 {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-17 {
+    width: 17.5px;
+    height: 17.5px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+
+.icon-problem-solve {
+    background-image: url(/assets/img/icon-problem-solve.svg);
+}
+
+.icon-row-left {
+    background-image: url(/assets/img/row-left.svg);
+}
+
+.icon-row-right {
+    background-image: url(/assets/img/row-right.svg);
+}
+
+.icon-arrow-bottom {
+    background-image: url(/assets/img/arrow-bottom.svg);
+}
+
+.icon-line {
+    background-image: url(/assets/img/line.svg);
+}
+
+.icon-book {
+    background-image: url(/assets/img/book.svg);
+}
+
+.icon-line-lg {
+    background-image: url(/assets/img/line-lg.svg);
+}
+
+.icon-twitter {
+    background-image: url(/assets/img/twitter-icon.svg);
+}
+
+.icon-linkedin {
+    background-image: url(/assets/img/linkedin-icon.svg);
+}
+
+.icon-instagram {
+    background-image: url(/assets/img/instagram-icon.svg);
+}
+
+.icon-facebook {
+    background-image: url(/assets/img/fb\ icon.svg);
+}
+
+.icon-gif {
+    background-image: url(/assets/img/icon-gif.svg);
+}
+
+.icon-poll {
+    background-image: url(/assets/img/icon-poll.svg);
+}
+
+.icon-emoji {
+    background-image: url(/assets/img/icon-emoji.svg);
+}
+
+.icon-schedule {
+    background-image: url(/assets/img/icon-schedule.svg);
+}
+
+.icon-orginal {
+    background-image: url(/assets/img/icon-orginal.svg);
+}
+
+.icon-reply {
+    background-image: url(/assets/img/icon-reply.svg);
+}
+
+.icon-repost {
+    background-image: url(/assets/img/icon-repost.svg);
+}
+
+.icon-like {
+    background-image: url(/assets/img/icon-like.svg);
+}
+
+.icon-share {
+    background-image: url(/assets/img/icon-share.svg);
+}
+
+.icon-lock {
+    background-image: url(/assets/img/icon-lock.svg);
+}
+
+.icon-settings {
+    background-image: url(/assets/img/icon-settings.svg);
+}
+
+.icon-more-2 {
+    background-image: url(/assets/img/icon-more-2.svg);
+}
+
+.icon-notfications-number {
+    background-image: url(/assets/img/icon-notifications-number.svg);
+}
